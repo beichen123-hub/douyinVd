@@ -1,4 +1,4 @@
-import { douyin } from "../douyin.ts";
+import douyin from "../douyin.ts";
 
 export default async (req: Request) => {
   // 1. 获取 URL 参数
